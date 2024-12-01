@@ -1,10 +1,10 @@
 # Miroshkin Oleg
 
-Unity Developer with 5+ years of commercial experience.
+## Unity Developer with 5+ years of commercial experience.
 
 I can be valuable for you in a role of:
 
-- Unity Developer. [Check my CV here](https://docs.google.com/document/d/14G3juVaG7q_Vn_3oqmQlGF9vwp_DmQ6d/edit?usp=sharing&ouid=100872973198092293754&rtpof=true&sd=true)
+- Unity Developer. [Check my CV](https://docs.google.com/document/d/14G3juVaG7q_Vn_3oqmQlGF9vwp_DmQ6d/edit?usp=sharing&ouid=100872973198092293754&rtpof=true&sd=true)
 - Personal mentor to improve your Unity developer skills. Write me to olegmiroshkindev@gmail.com
 - Speaker at online conferences (see information below)
 
