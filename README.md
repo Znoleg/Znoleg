@@ -14,6 +14,6 @@ I can be valuable for you in a role of:
 
 ![](WebGL_optimization.png)
 
-### [Unity architecture design using a test task as an example](https://youtu.be/yaTJbfq-9M0?si=11ZQKSt2Y2VZ8pD2)
+### [Designing Unity architecture using a test task as an example.](https://youtu.be/yaTJbfq-9M0?si=11ZQKSt2Y2VZ8pD2)
 
 ![](architecure_design.png)
