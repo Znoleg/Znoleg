@@ -12,8 +12,8 @@ I can be valuable for you in a role of:
 
 ### [Optimizing the game for WebGL](https://www.youtube.com/live/fijJiEET78k?si=_hAapzojvYIg3huA&t=6690)
 
-![](img/WebGL_optimization.png)
+![](WebGL_optimization.png)
 
 ### [Unity architecture design using a test task as an example](https://youtu.be/yaTJbfq-9M0?si=11ZQKSt2Y2VZ8pD2)
 
-![](img/architecure_design.png)
+![](architecure_design.png)
