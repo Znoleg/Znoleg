@@ -1,5 +1,3 @@
-# Miroshkin Oleg
-
 ## Unity Developer with 5+ years of commercial experience.
 
 ## My lectures / performances
