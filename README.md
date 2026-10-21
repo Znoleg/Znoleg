@@ -1,11 +1,3 @@
-## Unity Developer with 5+ years of commercial experience.
+Personal sandbox — old experiments, forks and side stuff.
 
-## My lectures / performances
-
-### [Optimizing the game for WebGL](https://www.youtube.com/live/fijJiEET78k?si=_hAapzojvYIg3huA&t=6690)
-
-![](WebGL_optimization.png)
-
-### [Designing Unity architecture using a test task as an example.](https://youtu.be/yaTJbfq-9M0?si=11ZQKSt2Y2VZ8pD2)
-
-![](architecure_design.png)
+👉 Main profile: [github.com/mrolegmir](https://github.com/mrolegmir)
